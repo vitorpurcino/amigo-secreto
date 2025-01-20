@@ -1,4 +1,4 @@
-<h1>Desafio Amigo Secreto ( ONE - Oracle Next Education )</h1>
+<h1>Desafio Amigo Secreto ( ONE - Oracle Next Education + Alura )</h1>
 <h3><b>Breve detalhe:</b></h3>
 <p>
   Neste desafio, foi desenvolvido uma aplicação que permita aos usuários inserir nomes de amigos em uma lista para, em seguida, realizar um sorteio aleatório e determinar quem é o "amigo secreto".
@@ -28,6 +28,8 @@
 <p>  
 <b>Sorteio aleatório:</b> Ao clicar no botão "Sortear Amigo", um nome da lista será selecionado aleatoriamente e exibido na página.
 </p>
-
+<p>  
+<b>Validar a Inserção:</b> Ao clicar no botão "Adicionar", uma função javascript realizara a verificação do nome se já está ou não incluso na lista.
+</p>
 
 
