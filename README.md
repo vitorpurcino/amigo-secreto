@@ -35,12 +35,12 @@
 <b>Permitir Novos Sorteios:</b> Após o sorteio, o botão "Sortear Amigo" ficará oculto e um novo botão "Novo Sorteio" surge. Isso ocorre através da alteração da classe dos botões.
 </p>
 <h2>Links da Página</h2>
-<a href="https://amigo-secreto-olive-one.vercel.app/">Acessar Página no Vercel</a>
+<a href="https://amigo-secreto-olive-one.vercel.app/" target="_blank">Acessar Página no Vercel</a>
 </br>
-<a href="https://vitorpurcino.github.io/amigo-secreto/">Acessar Página no Github-Pages</a>
+<a href="https://vitorpurcino.github.io/amigo-secreto/" target="_blank">Acessar Página no Github-Pages</a>
 <h2>Time Envolvido</h2>
 <img src="https://avatars.githubusercontent.com/u/7075880?v=" width="100" height="100">
-<p>Vitor Purcino - <a href="https://www.linkedin.com/in/vitorpurcino/">LinkedIn</a></p>
+<p>Vitor Purcino - <a href="https://www.linkedin.com/in/vitorpurcino/" target="_blank">LinkedIn</a></p>
 
 
 
